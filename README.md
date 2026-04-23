@@ -16,7 +16,8 @@ The objective of this project is to classify different clay types based on exper
 
 3. **Modeling**  
    - Random Forest  
-   - Support Vector Machine (SVM)  
+   - Support Vector Machine (SVM)
+   - Decision Tree  
 
 4. **Evaluation**  
    - Accuracy score  
