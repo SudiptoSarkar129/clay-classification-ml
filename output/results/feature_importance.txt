@@ -1,0 +1,26 @@
+
+Decision Tree Feature Importance
+========================================
+Na2O                0.542857
+d50                 0.457143
+d10                 0.000000
+d90                 0.000000
+Al/Si               0.000000
+water absorption    0.000000
+SO3                 0.000000
+CaCO3               0.000000
+MgO                 0.000000
+Heat                0.000000
+
+Random Forest Feature Importance
+========================================
+d50                 0.148163
+d90                 0.147539
+MgO                 0.133429
+Na2O                0.111103
+Heat                0.109534
+CaCO3               0.096037
+water absorption    0.090336
+Al/Si               0.083504
+SO3                 0.043600
+d10                 0.036754

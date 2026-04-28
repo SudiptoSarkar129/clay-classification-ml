@@ -1,0 +1,5 @@
+Prediction for New Sample
+==============================
+Decision Tree: SSC
+Random Forest: SSC
+SVM: SSC

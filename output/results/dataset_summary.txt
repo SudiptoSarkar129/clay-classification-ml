@@ -1,0 +1,22 @@
+Dataset Summary
+==============================
+Initial shape: (8, 11)
+Shape after dropping missing rows: (8, 11)
+Target column: Output
+
+Input features:
+d90
+d10
+d50
+water absorption
+Al/Si
+SO3
+CaCO3
+MgO
+Na2O
+Heat
+
+Class mapping:
+Kaolin -> 0
+Mix clay -> 1
+SSC -> 2
